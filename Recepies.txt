@@ -6,5 +6,8 @@ salad
 paneer
 
 
+beans
+pizza
+
 
 Thank you
